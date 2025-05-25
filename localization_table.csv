@@ -1,0 +1,5 @@
+KEY,en-GB,it-IT
+CRIT_ERROR_SDL_INIT,Failed to init SDL:,Impossibile inizializzare SDL:
+CRIT_ERROR_CREATE_WINDOW,Failed to create main window:,Impossibile creare la finestra principale:
+CRIT_ERROR_CREATE_GPU,Failed to create gpu device:,Impossibile creare il dispositivo gpu:
+CRIT_ERROR_CLAIM_WINDOW,Failed to claim main window for gpu device:,Impossibile assegnare la finestra principale al dispositivo gpu:
